@@ -9,4 +9,5 @@ test('TestA.1', async t => {
 
 test('TestA.2', async t => {
     console.log("TestA.2");
+    console.log("TestA.2");
 });
