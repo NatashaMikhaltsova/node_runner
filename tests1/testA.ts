@@ -4,7 +4,7 @@ fixture('Test.A')
 
 test('TestA.1', async t => {
     // @ts-ignore
-    console.log(await t.testRun.test.name);
+    console.log(await t.testRun.test.name);;
 });
 
 test('TestA.2', async t => {
